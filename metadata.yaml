@@ -1,0 +1,36 @@
+_repo: Holidays-at-Roselands--13-A-Sequel-to-Elsie-Dinsmore_14280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Family life -- Southern States -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Southern States -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Religious fiction'
+title: "Holidays at Roselands\r\nA Sequel to Elsie Dinsmore"
+url: http://www.gutenberg.org/ebooks/14280
